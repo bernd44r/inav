@@ -104,3 +104,7 @@ RIGHT alignment:
  T1 xxx°C
 ESC xxx°C
 ```
+
+- For the DS18B20 temperature sensors there is a distribution board for several sensors.
+- Info in the video at: https://www.youtube.com/watch?v=pB8ce2kGCuk
+
